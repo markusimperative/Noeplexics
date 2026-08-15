@@ -25,16 +25,20 @@ This repository begins with research-process material, not settled theory.
 | Exploratory | Material used to formulate questions, test distinctions, or structure inquiry rather than state settled conclusions. |
 | Superseded | Retained for provenance but replaced by a later research record. |
 
-Public availability does not change a document's status. Repository presence does not imply publication, peer review, validation, acceptance, scientific consensus, or canonical status.
+Public availability does not change a document's status. Repository presence does not imply formal academic publication, peer review, validation, acceptance, scientific consensus, or canonical status.
 
 ## Human-AI collaboration
 
-AI systems may assist with reflection, explication, organisation, adversarial testing, and proposed wording. They are research instruments, not final research authorities or authors of the programme. The human researcher remains responsible for claims, interpretations, decisions, provenance judgements, and any later publication.
+AI systems may assist with reflection, explication, organisation, adversarial testing, and proposed wording. They are research instruments, not final research authorities or designated authors of the programme. The human researcher remains responsible for claims, interpretations, decisions, provenance judgements, and any later formal publication.
+
+## Ownership and rights
+
+Noeplexics is independent work created and led by Mark Anil Mathew in his personal capacity. Public visibility does not transfer ownership, place the material in the public domain, or grant an open-source or open-content licence.
+
+- [LICENSE.md](LICENSE.md) states the proprietary, all-rights-reserved terms and the text-and-data-mining reservation.
+- [AUTHORS.md](AUTHORS.md) records authorship, ownership, independence, and the role of AI assistance.
+- [CONTRIBUTING.md](CONTRIBUTING.md) explains that issue reports are welcome but external creative contributions are not currently accepted.
 
 ## Contact
 
-Public contact is through the GitHub profile [markusimperative](https://github.com/markusimperative).
-
-## Rights
-
-The material is publicly visible for inspection and evaluation, but it is not released under an open-source or open-content licence. See [RIGHTS.md](RIGHTS.md).
+Public contact and permission requests may be initiated through the GitHub profile [markusimperative](https://github.com/markusimperative).
